@@ -1,4 +1,4 @@
-// [Template no Kotlin Playground](https://pl.kotl.in/WcteahpyN)
+// [Template no Kotlin Playground](https://pl.kotl.in/pwkg24HVb)
 
 enum class Nivel { BASICO, INTERMEDIARIO, DIFICIL }
 
